@@ -7,4 +7,4 @@ To accomplish this task, I followed two key steps, which were Registration and S
 
 In the Stitching step, I combined strips from aligned images into a sequence of panoramas. To do this, I compensated for global motion and made the residual parallax, as well as other motions, visible. Through this process, I was able to successfully produce a panoramic image from a sequence of individual images.
 
-<img align="center" alt="HTML"  src="https://github.com/yosefede06/Registration-and-Stitching---Image-Processing/tree/main/result" />
+<img align="center" alt="HTML"  src="https://github.com/yosefede06/Registration-and-Stitching---Image-Processing/tree/main/result/panorama01.png" />
